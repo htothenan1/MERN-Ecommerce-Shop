@@ -15,3 +15,4 @@ Additional technologies used:
 - Colors
 - Dotenv
 - React Bootstrap
+- JSON web token
