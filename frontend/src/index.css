@@ -23,3 +23,12 @@ h2 {
 .btn-block {
   width: 100%;
 }
+
+.login {
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
+
+.button {
+  margin-top: 10px;
+}
