@@ -1,7 +1,7 @@
 # MERN Ecommerce Experiment
 
 This project is an exercise in the basics of the MERN stack (MongoDB, Express, React, NodeJS).
-My goal is to build a fully functional (albeit fake products) ecommerce web application, complete with shopping cart,
+My goal is to build a fully functional ecommerce web application, complete with shopping cart,
 checkout processing, and reviews.
 
 Additional technologies used:
