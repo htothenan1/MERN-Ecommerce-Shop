@@ -12,7 +12,8 @@ Additional technologies used:
 - Mongoose
 - Express async handler
 - Bcrypt
-- Colors
 - Dotenv
 - React Bootstrap
 - JSON web token
+- React PayPal button
+- Font Awesome
