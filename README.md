@@ -17,4 +17,3 @@ Additional technologies used:
 - JSON web token
 - React PayPal button
 - Font Awesome
-- Multer
